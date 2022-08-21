@@ -12,7 +12,7 @@ const questions = [
     {
         type: 'description',
         message: 'Enter a description for your project:',
-        name: 'location',
+        name: 'description',
     },
     {
         type: 'install',
@@ -35,14 +35,22 @@ const questions = [
         name: 'test',
     },
 ];
-
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {
-    
-}
+function writeToFile(fileName) {
+    inquirer
+        .prompt(questions)
+        .then((data) => {
+            fs.writeFile(fileName, genMD(data), (err) =>
+                err ? console.error(err) : console.log('A Markdown document has been created for your project!')
+            );
+        }
+     );
+};
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() { 
+    writeToFile('README.md')
+}
 
 // Function call to initialize app
 init();
