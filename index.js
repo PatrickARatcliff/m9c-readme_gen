@@ -46,11 +46,9 @@ function writeToFile(fileName) {
         }
      );
 };
-
 // TODO: Create a function to initialize app
 function init() { 
     writeToFile('README.md')
-}
-
+};
 // Function call to initialize app
 init();
