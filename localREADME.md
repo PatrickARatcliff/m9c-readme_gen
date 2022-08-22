@@ -7,15 +7,16 @@ Links:
 
 [github repo url: https://github.com/PatrickARatcliff/m9c-readme_gen](https://github.com/PatrickARatcliff/m9c-readme_gen)
 
-[google drive url: https://drive.google.com/file/d/1ay3k962yIhHjo0Qww6dgeajmI1udI3C7/view?usp=sharing](https://drive.google.com/file/d/1ay3k962yIhHjo0Qww6dgeajmI1udI3C7/view?usp=sharing)
-
 Demo Video:
+
+[google drive url: https://drive.google.com/file/d/1ay3k962yIhHjo0Qww6dgeajmI1udI3C7/view?usp=sharing](https://drive.google.com/file/d/1ay3k962yIhHjo0Qww6dgeajmI1udI3C7/view?usp=sharing)
 
 ![screencastify demo](https://drive.google.com/file/d/1ay3k962yIhHjo0Qww6dgeajmI1udI3C7/view?usp=sharing)
 
 Screenshots:
 
 ![screenshot-1](./Image%208-22-22%20at%205.01%20PM.jpg)
+
 ![screenshot-2](./Image%208-22-22%20at%205.02%20PM.jpg)
   
 ## Table of Contents
