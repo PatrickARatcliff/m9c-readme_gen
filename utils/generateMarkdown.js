@@ -2,14 +2,14 @@ const moment = require('moment');
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  if(!license) {return ''}
+  if('none') {return ''}
   else {return `https://img.shields.io/static/v1?label=license&message=${license}&color=green` 
   }
 };
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  if(!license) {return ''}
+  if('none') {return ''}
   else if (license === 'MIT') {
     return 'https://en.wikipedia.org/wiki/MIT_License';
   } else if (license === 'Apache') {
@@ -23,7 +23,7 @@ function renderLicenseLink(license) {
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  if(!license) {return ''}
+  if(license === 'none') {return ''}
   else if (license === 'MIT') {
   return `Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
