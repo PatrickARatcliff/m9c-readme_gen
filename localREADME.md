@@ -3,11 +3,11 @@
 # ![MIT License](https://img.shields.io/static/v1?label=license&message=MIT&color=green)
 # Date: 22/08/2022, 12:23:50 pm
 
-github repo URL: https://github.com/PatrickARatcliff/m9c-readme_gen
+[github repo URL: https://github.com/PatrickARatcliff/m9c-readme_gen](https://github.com/PatrickARatcliff/m9c-readme_gen)
 
-deployed URL: https://patrickaratcliff.github.io/m9c-readme_gen/
+[deployed URL: https://patrickaratcliff.github.io/m9c-readme_gen/](https://patrickaratcliff.github.io/m9c-readme_gen/)
 
-screencastify demo URL:
+![screencastify demo URL: https://drive.google.com/file/d/1NTwrDlbSEyMo4U7_7hBraKM2Xf1Ck5-L/view](https://drive.google.com/file/d/1NTwrDlbSEyMo4U7_7hBraKM2Xf1Ck5-L/view)
   
 ## Table of Contents
 - [Project Description](#project-description)
